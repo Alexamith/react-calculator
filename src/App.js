@@ -5,7 +5,7 @@ import { Boton } from './componentes/componente-boton/Boton';
 import { Pantalla } from './componentes/componente-pantalla/Pantalla';
 
 import {evaluate} from 'mathjs';
-import logo from './imagenes/logo.PNG';
+import logo from '../src/imagenes/logo.PNG';
 
 function App() {
 
